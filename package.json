@@ -33,6 +33,14 @@
   ],
   "author": "Bohdan Tsap",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohdaq/react-waveform-widget.git"
+  },
+  "homepage": "https://github.com/bohdaq/react-waveform-widget#readme",
+  "bugs": {
+    "url": "https://github.com/bohdaq/react-waveform-widget/issues"
+  },
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
