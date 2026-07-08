@@ -2,6 +2,8 @@
 
 A lightweight React component that renders an audio file's waveform on a `<canvas>`. Audio is decoded client-side with the Web Audio API — no server-side processing or precomputed peak data required.
 
+![react-waveform-widget screenshot](assets/screenshot.png)
+
 ## Install
 
 ```sh
